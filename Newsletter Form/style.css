@@ -32,7 +32,7 @@ body {
 }
 
 .newsletter-container .success-msg {
-  display: initial;
+  display: none;
   padding: 3.5rem;
 }
 
@@ -179,7 +179,7 @@ body {
   }
 
   .newsletter-container .success-msg {
-    display: block;
+    display: none;
     padding: initial;
   }
 
